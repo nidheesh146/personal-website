@@ -93,7 +93,8 @@ body{
 }
 .gender1{
     width: 39%;
-    float: left;
+    position: relative;
+    left:50%
     font-size: 15px;
     border-top-color: #fff;
    
