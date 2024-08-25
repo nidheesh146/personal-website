@@ -115,8 +115,8 @@ body{
     height: 29px;
     cursor: pointer;
 }
-.sign-up{
-    position: relative;
-    right: 587px;
-    bottom: -39px;
+#sign-up{
+    display:block;
+    margin-left:auto;
+    margin-right:auto
 }
